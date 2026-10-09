@@ -1,0 +1,5 @@
+nubra-sdk
+fastapi
+uvicorn[standard]
+tzdata
+pytest
